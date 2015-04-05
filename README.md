@@ -16,3 +16,5 @@ uses a patched version of diffuse for creating the diff image
 * imagemagick
 
 * ffmpeg
+
+relative paths have to be customized
