@@ -5,14 +5,14 @@ this collection of bash scripts was used to create an animation of the editing p
 
 supports automatic concatenation of included tex-files using the \input{} command
 
-uses a modified version of diffuse to create the diff image
+uses a patched version of diffuse for creating the diff image
 
-requires
+**requirements:**
 
--) git repository
+* git repository
 
--) modified copy of diffuse
+* modified copy of diffuse
 
--) imagemagick
+* imagemagick
 
--) ffmpeg
+* ffmpeg
