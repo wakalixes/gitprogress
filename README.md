@@ -8,7 +8,11 @@ supports automatic concatenation of included tex-files using the \input{} comman
 uses a modified version of diffuse to create the diff image
 
 requires
+
 -) git repository
+
 -) modified copy of diffuse
+
 -) imagemagick
+
 -) ffmpeg
